@@ -36,7 +36,6 @@ Instrumentation for the Spring R2DBC framework components
 |spring-r2dbc|Java/*class name*/rowsUpdated| Metric| Traces of implementers of org.springframework.r2dbc.core.UpdatedRowsFetchSpec|
 |spring-r2dbc|Java/*class name*/(all,first,one)| Metric| Traces of implementers of org.springframework.r2dbc.core.RowsFetchSpec|
 |spring-r2dbc|Java/org.springframework.r2dbc.connection.R2dbcTransactionManager/(doBegin,doCommit,doResume,doRollback,doSuspend)| Metric| Traces of org.springframework.r2dbc.connection.R2dbcTransactionManager|
-|---|---|---|
 
 
 ## Installation
