@@ -24,12 +24,13 @@ Instrumentation for the Spring R2DBC framework components
 ## Value
 
 |Metrics | Events | Logs | Traces | Visualization | Automation |
-|:white_check_mark:|:-:|:-:|:-:|:-:|:-:|
-|:x:|:x:|:x:|:x:|:x:|:x:|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|:white_check_mark:|:x:|:x:|:x:|:x:|:x:|
+
 
 ### List of Metrics,Events,Logs,Traces
 |Module|Name | Type | Description |
-|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|
 |spring-data-r2dbc|Custom/R2dbcEntityTemplate/(Count,Delete,Exists,Insert,Select,Update) | Metric| Traces of org.springframework.data.r2dbc.core.R2dbcEntityTemplate methods|
 |spring-data-r2dbc-4.x|Custom/R2dbcEntityTemplate/(Count,Delete,Exists,Insert,Select,Update) | Metric| Traces of org.springframework.data.r2dbc.core.R2dbcEntityTemplate methods|
 |spring-r2dbc|Java/*class name*/rowsUpdated| Metric| Traces of implementers of org.springframework.r2dbc.core.UpdatedRowsFetchSpec|
