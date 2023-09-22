@@ -1,7 +1,9 @@
 ## Version: [v1.0.1](https://github.com/newrelic-experimental/newrelic-java-spring-r2dbc/releases/tag/v1.0.1) | Created: 2023-09-22
+
 ### Build Upgrades
-- Pdate build.gradle
 - Updated vendor title
+
+
 
 
 ## Installation
