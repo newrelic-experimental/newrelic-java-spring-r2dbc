@@ -1,4 +1,5 @@
 rootProject.name = 'java-instrumentation-template'
 include 'spring-r2dbc'
 include 'spring-data-r2dbc'
-include 'spring-data-r2dbc-4.x'
+include 'spring-data-r2dbc-1.4'
+include 'spring-data-r2dbc-3.4'
